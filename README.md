@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?duration=3000&color=F79A3D&lines=Hi%2CI'm+Hachi.Robot+Developer"/>
-    <strong>I am open to internship opportunities in any interesting direction.</strong>
+  <img src="https://readme-typing-svg.herokuapp.com/demo/?color=1A8FF7&lines=Hi%2CI'm+Hachi.Robot+Develogper." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=C98A4A&center=true&vCenter=true&width=780&pause=100000&lines=Third-year+CS+undergraduate+%7C+Recreational+coder+%7C+Open-source+enthusiast." alt="Current Role"/>
   <p>
-    <code>🌱 Born 2002-07-11</code>
-    <code>📍 China / ShenZhen.</code>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
+    <strong>I am open to internship opportunities in any interesting direction.</strong>
+  </p>
+  <p>
+    <code>🌱 Born 2005-10-07</code>
+    <code>📍 Across China / Remote.</code>
   </p>
 </div>
 
@@ -19,7 +23,7 @@
     <img src="https://img.shields.io/badge/BLOG-lvywiki-C58940?style=flat-square&logo=readthedocs&logoColor=white" alt="personal site"/>
   </a>
   <a href="https://leetcode.cn/u/hhczc/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fhachi-blog.vercel.app%2F?style=flat">
+    <img src="https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
   </a>
   <a href="mailto:lvyovo01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-lvyovo01%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
